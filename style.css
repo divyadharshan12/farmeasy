@@ -61,6 +61,9 @@ input {
     border: none;
     border-radius: 5px;
     font-size: 16px;
+    height:10px;
+    width:10px;
+    
 }
 
 .bu:hover {
