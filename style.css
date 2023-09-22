@@ -1,0 +1,72 @@
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    background-image:url("https://croplife.shorthandstories.com/beyond-the-big-four-staple-crops/assets/uQtIc1gbAf/adobestock_206333246-1920x1280.jpeg");
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+}
+h1 {
+    text-align:center;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.lsform {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.lsform h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.con{
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+.label {
+    font-size: 14px;
+    margin-bottom: 5px;
+    display: block;
+    color: #666;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    color: #333;
+}
+
+button {
+    background-color:rgb(88, 236, 88);
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color:green;
+}
+.password a {
+    color: #007bff;
+    text-decoration: none;
+}
