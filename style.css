@@ -54,7 +54,7 @@ input {
     color: #333;
 }
 
-bu {
+.bu {
     background-color:rgb(88, 236, 88);
     color: #fff;
     padding: 10px 20px;
@@ -63,7 +63,7 @@ bu {
     font-size: 16px;
 }
 
-bu:hover {
+.bu:hover {
     background-color:green;
 }
 .password a {
